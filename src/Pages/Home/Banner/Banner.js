@@ -11,7 +11,7 @@ const Banner = () => {
     setIndex(selectedIndex);
   };
   return (
-    <Carousel activeIndex={index} onSelect={handleSelect}>
+    <Carousel id="banner" activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
         <img className="d-block w-100" src={banner1} alt="First slide" />
         <Carousel.Caption>
