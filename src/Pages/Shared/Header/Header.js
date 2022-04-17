@@ -12,7 +12,7 @@ const Header = () => {
       variant="dark"
     >
       <Container>
-        <Navbar.Brand as={Link} to="/home">
+        <Navbar.Brand as={Link} to="/">
           Travel Guide
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
