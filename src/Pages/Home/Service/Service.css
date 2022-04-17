@@ -1,0 +1,15 @@
+.service{
+    width: 500px;
+    height: 900px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    position: relative;
+    text-align: center;
+    margin: 10px;
+}
+.service img{
+   width: 400px;
+   height: 500px;
+  border-radius: 8px;
+  margin: 10px;
+}

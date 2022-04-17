@@ -1,0 +1,24 @@
+[
+    {
+        "id":"29AAC90CA4FD9E0A737EA644F7B5A932847D90DE",
+        "name":"Food Walk",
+        "price": "114",
+        "description": "Discover Sunny's foodie scene and sample delicious Icelandic cuisine on this walking tour. Visit a variety of Sunny eateries from restaurants to food trucks, and sample a selection of traditional dishes and street food favorites including Icelandic cheeses, lamb, homemade ice cream, and the famous Icelandic hot dogs.",
+        "img" : "https://www.addresshotels.com/wp-content/uploads/2020/10/Palace-Downtown-Asado-Mixed-Grill.jpg"
+    },
+    {
+        "id":"8710A177F1E71859AF08A1B399208D09F4E96BF7",
+        "name":"VIP CityWalk Tour",
+        "price": "200",
+        "description": "Capital of Iceland—the Land of Fire and Ice-Reykjavík boasts a colorful history dating back to the days of the Vikings. On this small-group walking tour, limited to 10 people, explore the streets of Sunny with your Viking guide and hear the hidden secrets many visitors miss. Discover top attractions including Hallgrimskirkja and enjoy an immersive experience in the culture and traditions of Iceland.",
+        "img" : "https://www.buubble.com/wp-content/uploads/2020/08/Reykjavik-scaled.jpg"
+    },
+    {
+        "id":"4AECD81F0D523C6E6AE1929AE0493A3237E327EC",
+        "name":"Snorkeling Between Continents in Silfra with Photos Included",
+        "price": "250",
+        "description": "Explore one of Iceland's unique geological features during this tour. Snorkel between the North American and European tectonic plates at the UNESCO-listed Thingvellir National Park. This area is known as the Silfra Fissure and is home to a number of unique marine species as well as incredible shades of blue. All necessary snorkeling equipment is provided as well as GoPro photos taken during the excursion.",
+        "img" : "https://i.pinimg.com/originals/19/99/93/199993f113e0edaf9f2fea6a00023d2b.jpg"
+    }
+
+]
