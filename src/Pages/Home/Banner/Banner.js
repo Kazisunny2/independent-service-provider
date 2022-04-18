@@ -59,7 +59,7 @@ const Banner = () => {
           <h3>North Iceland</h3>
           <p>
             The landscapes are filled with snowy mountain peaks and green
-            meadows, but the area doesn’t lack wild canyons or waterfalls
+            meadows, but the area doesn't lack wild canyons or waterfalls
             either. The steaming geothermal fields and whale-filled bays only
             add to the touristic value of this remarkable region.
           </p>
