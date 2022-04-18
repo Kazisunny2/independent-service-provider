@@ -13,7 +13,12 @@ const Banner = () => {
   return (
     <Carousel id="banner" activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
-        <img className="d-block w-100" src={banner1} alt="First slide" />
+        <img
+          style={{ height: "600px" }}
+          className="d-block w-100"
+          src={banner1}
+          alt="First slide"
+        />
         <Carousel.Caption>
           <h3>Reykjavik</h3>
           <p>
@@ -25,7 +30,12 @@ const Banner = () => {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img className="d-block w-100" src={banner2} alt="Second slide" />
+        <img
+          style={{ height: "600px" }}
+          className="d-block w-100"
+          src={banner2}
+          alt="Second slide"
+        />
 
         <Carousel.Caption>
           <h3>Godafoss Waterfalls:</h3>
@@ -38,7 +48,12 @@ const Banner = () => {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img className="d-block w-100 " src={banner3} alt="Third slide" />
+        <img
+          style={{ height: "600px" }}
+          className="d-block w-100 "
+          src={banner3}
+          alt="Third slide"
+        />
 
         <Carousel.Caption>
           <h3>North Iceland</h3>

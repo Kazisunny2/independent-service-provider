@@ -1,6 +1,5 @@
 import React from "react";
 import google from "../../../images/social/google logo.png";
-import facebook from "../../../images/social/facebook-logo.png";
 import github from "../../../images/social/GitHub_logo.png";
 import {
   useSignInWithGithub,
@@ -50,10 +49,6 @@ const SocialLogin = () => {
         >
           <img style={{ width: "30px" }} src={google} alt="" />
           <span className="px-3">Google Sign In</span>
-        </button>
-        <button className="btn btn-info d-block w-50 mx-auto my-2">
-          <img style={{ width: "30px" }} src={facebook} alt="" />
-          <span className="px-3">Facebook Sign In</span>
         </button>
         <button
           onClick={() => signInWithGithub()}
