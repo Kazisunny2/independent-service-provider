@@ -6,6 +6,9 @@ import Services from "../Services/Services";
 const Home = () => {
   return (
     <div>
+      <h1 className="text-primary text-center mt-2">
+        Welcome To My Tour Travel Guide Website
+      </h1>
       <Banner></Banner>
       <Services></Services>
       <br />
